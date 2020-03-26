@@ -4,6 +4,26 @@
       "title": "New API POST",
       "content": "Content from API",
       "id": 1
+    },
+    {
+      "title": "Blog # 2",
+      "content": "This is my Blog # 2 ",
+      "id": 2
+    },
+    {
+      "title": "Blog # 3",
+      "content": "Tnis is my Blog # 3",
+      "id": 3
+    },
+    {
+      "title": "Blog # 4",
+      "content": "Tnis is my Blog # 4",
+      "id": 4
+    },
+    {
+      "title": "Blog # 5",
+      "content": "Tnis is my Blog # 5",
+      "id": 5
     }
   ]
 }
